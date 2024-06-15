@@ -1,0 +1,1 @@
+sudo docker-compose -f docker-compose-for-local.yaml --env-file .env build
